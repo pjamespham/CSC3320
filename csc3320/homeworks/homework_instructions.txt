@@ -1,0 +1,9 @@
+Create a google doc for each homework assingment submission
+Start your responses from page 2 of the document and copy these instructions on page 1
+Fill in your name, campus ID and pather # in the fields provided. If this information is missing in your document TWO POINTS WILL BE DEDUCTED per submission
+Keep this page 1 intact on all your submissions. If this submissions instructions is missing in your submission TWO POINTS WILL BE DEDUCTED per submission
+Each homework will typically have 2-3 PARTS, where each PART focuses on specific topic(s).
+Start your responses to each part on a new page
+If you are being asked to write code copy the code into a separate txt file and submit that as well.
+If you are being asked to test code or run specific commands or scripts, provide the evidence of your outputs through a screenshot and copy the same into the documnet
+Upon completion, download a .PDF verison of the document and submit the same.
